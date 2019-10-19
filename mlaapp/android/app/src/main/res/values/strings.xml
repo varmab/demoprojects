@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MLA</string>
+    <string name="fb_app_id">542413399599076</string>
+    <string name="ak_client_token">8c3144df9847a332d78c82379d6842ca</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ENABLE_IN_JS</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
